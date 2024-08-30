@@ -10,7 +10,6 @@ Java 開發課程所寫的spring boot練習專案<br />
 ### 開發前的配置要求
 
 1. eclipse
-2. meven
 3. MySQL 8.0
 
 
